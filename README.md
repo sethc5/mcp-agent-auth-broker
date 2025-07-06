@@ -48,6 +48,14 @@ Welcome! This repo is a public rally point for anyone interested in building (or
 - [AutoGen](https://github.com/microsoft/autogen)
 - [e2b](https://github.com/e2b-dev/e2b)
 
+| Need                            | Existing Projects                      | What’s Missing                                    |
+|---------------------------------|----------------------------------------|------------------------------------------------   |
+| Local identity/auth for agents  | Vaultwarden, Home Assistant, Keycloak  | Unified, plug-and-play, non-web, modular approach |
+| Permission/approval UI          | Home Assistant, Vaultwarden            | Cross-app, agent-friendly, simple                 |
+| Agent-to-agent trust            | MCP, Cline, CrewAI                     | Usable, standard glue for all                     |
+| Audit & revoke                  | Some, but fragmented                   | One dashboard, any app/agent                      |
+
+
 Let’s figure out what’s needed and how to get there—together.
 
 *Open a Discussion or Issue to introduce yourself or share ideas!*
